@@ -1,4 +1,4 @@
-<img width="599" alt="image" src="https://github.com/SIVAmech123/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/151629067/b5069540-40fc-4ae6-a756-500f441af038"># EX No.4.2. CUT SECTION OF SOLIDS
+## EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
