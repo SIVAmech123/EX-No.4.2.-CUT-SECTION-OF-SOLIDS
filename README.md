@@ -1,4 +1,4 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
+<img width="599" alt="image" src="https://github.com/SIVAmech123/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/151629067/b5069540-40fc-4ae6-a756-500f441af038"># EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
@@ -42,6 +42,9 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+
+<img width="599" alt="Screenshot 2024-04-04 102727" src="https://github.com/SIVAmech123/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/151629067/4496d880-1d87-4fa2-8118-14dc9640afa7">
+
 
 ## RESULT:
 Thus, the cut section for solid model is created.
